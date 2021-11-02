@@ -1,1 +1,2 @@
 Github on koodijagamis teenus, mida kasutatakse peamiselt versioonihalduseks
+Saan GitHub'i kasutada minnes leheküljele github.com ja logides sisse enda kasutajasse.
