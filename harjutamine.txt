@@ -1,2 +1,3 @@
 Github on koodijagamis teenus, mida kasutatakse peamiselt versioonihalduseks
 Saan GitHub'i kasutada minnes leheküljele github.com ja logides sisse enda kasutajasse.
+GitHub firma loodi aastal 2008 Tom Preston-Werner, Chrish Wanstrath, P.J Hyett ja Scott Chaconi poolt. GitHubi teenus oli kättesaadaval 10. aprillil 2008
